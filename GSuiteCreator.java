@@ -52,7 +52,7 @@ public class GSuiteCreator {
 
     /* REPLACE THESE WITH YOUR OWN */
     private static final String JSON_PRIVATE_KEY_FILE = "jsonprivatekey.json";
-    private static final String RESELLER_ADMIN = "danny@goog-test.reseller.gappslabs.co";
+    private static final String RESELLER_ADMIN = "admin@resellerdomain.com";
     
 
     private GoogleCredential cred;
